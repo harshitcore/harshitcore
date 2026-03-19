@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitcore&label=Profile%20views&color=0e75b6&style=flat" alt="harshitcore" /> </p>
 
-
-
-
 - 🔭 I’m currently working on [Placement-Buddy](https://github.com/harshitcore/Placement-buddy)
 
 - 🌱 I’m currently learning **AI/ML/DL, Software Development, Generative AI.**
